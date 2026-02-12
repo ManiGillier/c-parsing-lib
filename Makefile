@@ -62,3 +62,6 @@ install-global: $(SO_NAME_MM) $(SO_NAME_M) $(SO_NAME_A)
 
 install: install-local
 .PHONY: install
+
+test: $(SO_NAME_MM)
+.PHONY: test
