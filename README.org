@@ -1,8 +1,0 @@
-#+TITLE: C Parsing Library
-#+AUTHOR: Mani Gillier
-
-The goal is to try and do a parsing library that ressembles my hasking parsing library tests.
-
-Maybe it will work.
-
-Maybe not.
